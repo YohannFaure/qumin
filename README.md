@@ -81,8 +81,8 @@ from qumin_lib import *
 
 # directory and path
 # initial file
-main_dir = '../20240711_sample_4/test_cell_z_stack/'
-file_name = 'test_cell_z_stack_MMStack_Pos0.ome.tif'
+main_dir = './path/to/images/'
+file_name = 'initial_image.tif'
 
 # new files to be created
 normalized_name = "z_stack.tiff"
